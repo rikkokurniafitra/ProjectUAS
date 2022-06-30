@@ -3,8 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.123" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/drawable/ic_baseline_movie_24.xml" value="0.123" />
         <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/layout/activity_detail_movie.xml" value="0.25" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/layout/activity_detail_tv.xml" value="0.24895833333333334" />
         <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/layout/fragment_favorite.xml" value="0.10885416666666667" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/layout/fragment_movie.xml" value="0.25" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/layout/fragment_tv_show.xml" value="0.24895833333333334" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/layout/item_tv.xml" value="0.25" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/layout/movie_item.xml" value="0.10989583333333333" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/layout/tv_item.xml" value="0.24895833333333334" />
+        <entry key="..\:/DATA KULIAH/Semester 6/Native mobile Programming/pertemuan 12/MovieCatalogueRinnodetail/app/src/main/res/menu/menu_bottom.xml" value="0.25" />
         <entry key="..\:/MovieCatalogueRinno/app/src/main/res/layout/activity_detail_movie.xml" value="0.12158054711246201" />
         <entry key="..\:/MovieCatalogueRinno/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/MovieCatalogueRinno/app/src/main/res/layout/movie_item.xml" value="0.264" />

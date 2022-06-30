@@ -20,7 +20,7 @@
         tools:src="@drawable/ic_launcher_background" />
 
     <TextView
-        android:id="@+id/tv_title"
+        android:id="@+id/tv_name"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"

@@ -15,8 +15,11 @@ class MovieAdapter(
     class MovieViewHolder(view : View) : RecyclerView.ViewHolder(view){
         fun bindMovie(movie : Movie){
             itemView.movie_title.text = movie.title
-            Glide.with(itemView).load(IMAGE_BASE + movie.poster).into(itemView.movie_poster)
-            Log.e("MovieAdapter","URL Image ==> $IMAGE_BASE${movie.poster}")
+            itemView.vote.text = movie.vote_average.toString()
+            itemView.popularity.text = movie.popularity.toString()
+            itemView.movie_release_date.text = movie.release_date
+            Glide.with(itemView).load(IMAGE_BASE + movie.poster_path).into(itemView.movie_poster)
+            Log.e("MovieAdapter","URL Image ==> $IMAGE_BASE${movie.poster_path}")
         }
     }
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MovieViewHolder {
