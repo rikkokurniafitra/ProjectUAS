@@ -10,31 +10,31 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:src="@drawable/rinno" />
+        android:src="@drawable/rikko" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="450dp"
         android:gravity="center"
-        android:text="Nama : Rinno Hendika Putra"
+        android:text="Nama : Rikko Kurnia Fitra"
         android:textColor="@color/black"
         android:textSize="22dp"
-        android:textStyle="bold" />
+      />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="500dp"
         android:gravity="center"
-        android:text="Nim : 1910031802115"
+        android:text="TTL : 2001 Januari 2001"
         android:textColor="@color/black"
         android:textSize="22dp"
-        android:textStyle="bold" />
+         />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="550dp"
         android:gravity="center"
-        android:text="Alamat : Jalan Purwodadi"
+        android:text="Alamat : Porwodadi Jln.taruna "
         android:textColor="@color/black"
         android:textSize="22dp" />
 
@@ -42,7 +42,7 @@
         android:layout_width="match_parent"
         android:layout_height="600dp"
         android:gravity="center"
-        android:text="Hobby : Futsal "
+        android:text="Asal : Indragiri Hilir, Tembilahan "
         android:textColor="@color/black"
         android:textSize="22dp" />
 
